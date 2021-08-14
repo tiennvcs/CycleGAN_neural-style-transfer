@@ -1,1 +1,6 @@
-# CycleGAN_neural-style-transfer
+# Implement Cycle GAN on mobile device
+
+*Code will update soon.*
+
+
+
